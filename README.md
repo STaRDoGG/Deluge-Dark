@@ -1,3 +1,5 @@
+NOTE: This is here for my own use and customization. -STaRDoGG
+
 # Deluge-Dark
 This is a dark skin for the Deluge WebUI to use with [Organizr](https://github.com/causefx/Organizr/)
 
