@@ -1,6 +1,7 @@
-**NOTE:**
-This is here for my own personal use and customization.
-Please use HalianElf's original repo rather than this one. -*STaRDoGG*
+**NOTE:**  
+This is here for my own personal use and customization.  
+Please use [HalianElf's](https://github.com/HalianElf/Deluge-Dark) original repo rather than mine.  
+-*STaRDoGG*
 
 # Deluge-Dark
 This is a dark skin for the Deluge WebUI to use with [Organizr](https://github.com/causefx/Organizr/)
